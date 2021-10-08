@@ -1,3 +1,12 @@
+/*Student name : Prathyusha Peddireddy
+Id : A00245208
+
+Student name : Kavya Chapparapu 
+ Id : A00246628
+
+Student name : Shiva Rama krishna
+Id : A00245380 */
+
 package metrics;
 //importing custom class
 import metrics.Die;
